@@ -1,0 +1,74 @@
+catergory,total_orders,total_revenue,avg_product_price,unique_products,revenue_share_percent
+"Beauty & Health",8836,1258951,130.19,2444,9.26
+"Watches Gifts",5624,1205213,201.17,1329,8.86
+"Bed, Bath & Table Linens",9417,1037729,93.36,3029,7.63
+"Sports & Leisure",7720,988433,114.39,2867,7.27
+"Computer Accessories",6689,912344,116.56,1639,6.71
+"Furniture & Decoration",6449,730156,87.61,2657,5.37
+"Cool Stuff",3632,635443,167.40,789,4.67
+"Household Goods",5884,632624,90.84,2335,4.65
+Automotive,3897,592843,139.99,1900,4.36
+"Garden Tools",3518,485473,111.68,753,3.57
+Toys,3886,484196,117.61,1411,3.56
+Babies,2885,411891,134.39,919,3.03
+Perfumery,3162,399332,116.80,868,2.94
+Telephone,4199,323817,71.25,1134,2.38
+"Office Furniture",1273,274038,162.06,309,2.02
+"Stationery Shop",2311,231055,91.80,849,1.70
+Pcs,181,222965,1098.35,30,1.64
+"Pet Shop",1710,214442,110.14,719,1.58
+"Musical Instruments",628,191534,281.67,289,1.41
+"Small Appliances",630,190669,280.81,231,1.40
+,1451,179619,112.05,610,1.32
+"Construction Tools",845,160632,155.65,439,1.18
+Electronics,2550,160506,58.01,517,1.18
+"Game Consoles",1062,157563,138.58,317,1.16
+"Fashion Bags And Accessories",1864,152889,75.28,849,1.12
+"Luggage & Accessories",1034,140512,128.67,349,1.03
+"Appliances 2",234,113326,476.16,90,0.83
+"Home Construction",490,83113,137.60,225,0.61
+Appliances,764,80201,104.02,370,0.59
+"Agribusiness And Commerce",182,72545,342.19,74,0.53
+"Living Furniture",422,68938,137.05,156,0.51
+"Landline Telephony",217,59593,225.73,116,0.44
+"Home Comfort",397,58598,135.02,111,0.43
+"Air Conditioning",253,55039,185.32,124,0.40
+Audio,350,50710,139.31,58,0.37
+"Portable Home Oven And Coffee Appliances",75,47447,624.30,31,0.35
+"General Interest Books",512,46888,84.79,216,0.34
+"Kitchen Furniture Service Area Dining And Garden",248,46341,164.91,94,0.34
+"Construction Tools Lighting",244,41086,135.15,78,0.30
+"Construction, Tools & Security",167,40551,209.03,91,0.30
+"Industry Commerce And Business",235,39672,148.03,68,0.29
+Food,450,29386,57.62,82,0.22
+Marketplace,280,28400,91.32,104,0.21
+"Construction Tools Garden",194,25716,108.05,88,0.19
+Arts,202,24214,115.86,55,0.18
+"Fashion & Footwear",240,23598,90.07,173,0.17
+Beverages,297,22370,59.02,81,0.16
+"Signage And Security",140,21523,108.16,93,0.16
+"Bedroom Furniture",95,20032,183.78,45,0.15
+"Technical Books",260,19100,71.54,123,0.14
+"Food Beverages",227,15205,54.69,104,0.11
+"Fashion Mens Clothing",112,10810,81.89,95,0.08
+"Fashion Underwear And Beachwear",121,9550,72.90,53,0.07
+"Christmas Items",128,8820,57.65,65,0.06
+"Tablets Printers Image Ssao",79,7529,90.71,9,0.06
+"Photo Cinema",65,6939,96.38,28,0.05
+Music,38,6036,158.84,27,0.04
+"Blu-Ray Dvds",59,6004,93.81,48,0.04
+"Imported Books",53,4642,77.37,31,0.03
+"Party Supplies",39,4489,104.40,26,0.03
+"Furniture Mattress And Upholstery",38,4369,114.97,10,0.03
+"Portable Kitchen And Food Preparators",14,3971,264.73,10,0.03
+"Fashion Women'S Clothing",39,2805,58.44,27,0.02
+"Fashion Sports",27,2122,70.73,19,0.02
+Kitchen,13,2055,146.79,10,0.02
+"Arts And Crafts",23,1812,75.50,19,0.01
+"Diapers Hygiene",27,1568,40.21,12,0.01
+"Gaming Pc",8,1546,171.78,3,0.01
+Flowers,29,1115,33.79,14,0.01
+"Home Comfort 2",24,763,25.43,5,0.01
+"Musical Cds Dvds",12,730,52.14,1,0.01
+"Children'S Clothing Fashion",8,570,71.25,5,0.00
+"Insurance And Services",2,283,141.50,2,0.00
