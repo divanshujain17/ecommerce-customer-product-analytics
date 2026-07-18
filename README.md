@@ -152,7 +152,7 @@ The Power BI report contains five pages.
 
 ## 1. Executive Overview
 
-![Executive Overview](images/overview.png)
+![Executive Overview](images/Overview.png)
 
 Provides a high-level view of revenue, orders, customers, average order value, repeat customer rate, geographic performance, product categories, and revenue trends.
 
@@ -160,7 +160,7 @@ Provides a high-level view of revenue, orders, customers, average order value, r
 
 ## 2. Customer Analysis
 
-![Customer Analysis](images/customer-analysis.png)
+![Customer Analysis](images/Customer.png)
 
 Analyzes RFM customer segments, customer value, purchasing frequency, retention patterns, and customers at risk.
 
@@ -168,7 +168,7 @@ Analyzes RFM customer segments, customer value, purchasing frequency, retention 
 
 ## 3. Product Analysis
 
-![Product Analysis](images/product-analysis.png)
+![Product Analysis](images/Product.png)
 
 Analyzes category revenue, order volume, average product pricing, product assortment, and revenue contribution.
 
@@ -176,7 +176,7 @@ Analyzes category revenue, order volume, average product pricing, product assort
 
 ## 4. Time Series Analysis
 
-![Time Series Analysis](images/time-series-analysis.png)
+![Time Series Analysis](images/Time-Series.png)
 
 Tracks revenue and order trends over time and highlights seasonal performance patterns.
 
@@ -184,7 +184,7 @@ Tracks revenue and order trends over time and highlights seasonal performance pa
 
 ## 5. Executive Insights
 
-![Executive Insights](images/executive-insights.png)
+![Executive Insights](images/Executive-Insights.png)
 
 Summarizes major business opportunities, risks, recommendations, and overall conclusions from the analysis.
 
