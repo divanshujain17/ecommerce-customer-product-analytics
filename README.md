@@ -166,6 +166,8 @@ Year-over-year comparisons should be interpreted carefully because the dataset c
 
 The final Power BI report contains **five interactive analytical pages** designed to provide both executive-level visibility and detailed business analysis.
 
+Dashboard: ![Dashboard View](https://app.powerbi.com/groups/me/reports/caf13aad-fb2d-423e-a1e9-7f220924c766/dca06a9cc2f0a5f20e10?experience=power-bi)
+
 ## 1. Executive Overview
 
 ![Executive Overview](Images/Overview.png)
